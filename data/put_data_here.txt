@@ -1,0 +1,2 @@
+you can download pre-trained model and pre-sythetic data form this repo:
+https://github.com/VSehwag/minimal-diffusion
